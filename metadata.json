@@ -1,0 +1,6 @@
+{
+  "name": "Movie Ticket Booking System",
+  "description": "Interactive cinema ticket booking platform with now-showing movies, multiplex showtimes, interactive audi seat layout, snack combos, and digital M-Ticket admission passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
